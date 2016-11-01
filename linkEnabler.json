@@ -1,4 +1,4 @@
-w3r_callback({
+jsonp_callback({
 "loggedIn" : "ok"
 }
 );
